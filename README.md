@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently studying a Bachelor's Degree in Computing at the IFBA Porto Seguro Campus
 
--  I’m looking to collaborate on
+-  Python | MySQL
 
-- 📫 How to reach me ryand4horaz@gmail.com
+- 📫 How to reach me ryan.dahora.sampaio@gmail.com
 
 <!---
 RyanWalkz/RyanWalkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
