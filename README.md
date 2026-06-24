@@ -2,54 +2,52 @@
 
 <div align="center">
 
-# 🌐 Hello, I'm Ryan
+# 🌐 Hello, I'm Ryan da Hora
 
-🌊 *"Technology, nature and clarity in balance"* 🌿
+🌊 *Technology, clarity and continuous evolution* 🌿
 
 </div>
 
 ---
 
-## ✨ About me
+## 👤 About me
 
 👋 Hi! I’m **Ryan**, 22 years old, Computer Science student at IFBA – Porto Seguro Campus 🇧🇷  
-🔐 Aspiring **Pentester / Ethical Hacker**  
-🌱 Always evolving between code, systems and cybersecurity
+🔐 Aspiring Pentester / Ethical Hacker  
+
+I enjoy exploring how systems work under the hood and how to secure them.
 
 ---
 
-## 💧 Digital Flow
+## 💻 Skills & Learning
 
-- 🧠 Interested in cybersecurity, ethical hacking and penetration testing  
-- 🐍 Python for automation, data science and LLMs (Jupyter Notebook)  
-- 🗄️ MySQL database fundamentals  
-- ☕ Currently studying Object-Oriented Programming in Java  
-- 🌐 Exploring networks, Linux and system security  
+- 🐍 Python — automation, data science, LLMs (Jupyter Notebook)
+- 🗄️ MySQL — database fundamentals
+- ☕ Java — Object-Oriented Programming (currently studying)
+- 📊 Data Science basics
+- 🌐 Networking & Linux fundamentals (in progress)
+- 🔐 Cybersecurity foundations (in progress)
 
 ---
 
-## 🌈 Tech Landscape
+## 🎯 Goals
 
-```text
-Python        ██████████░░
-Java          ██████░░░░░░
-MySQL         ████████░░░░
-Data Science  ████████░░░░
-Cybersecurity ██████░░░░░░
-Linux         ██████░░░░░░
+- Become a professional **Pentester / Ethical Hacker**
+- Improve knowledge in **Linux, Networking and System Security**
+- Build real-world security and automation projects
+- Practice through **CTFs and labs**
 
-🌊 Vision
-🛡️ Become a professional Pentester / Ethical Hacker
-🌐 Build real-world security projects
-🔍 Participate in CTFs and offensive security labs
-⚙️ Strengthen networking + Linux + low-level understanding
-💠 Contact
+---
 
-💌 Email: ryan.dahora.sampaio@gmail.com
+## 💌 Contact
+
+- Email: **ryan.dahora.sampaio@gmail.com**
+
+---
 
 <div align="center">
 
-🌿 Clean code. Clear mind. Connected world. 🌊
+🌿 *Clean code. Clear mind. Connected world.* 🌊  
 ✨ Frutiger Aero inspired profile ✨
 
-</div> ```
+</div>
