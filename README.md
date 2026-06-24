@@ -39,9 +39,7 @@ I enjoy exploring how systems work under the hood and how to secure them.
 
 ---
 
-## 💌 Contact
-
-- Email: **ryan.dahora.sampaio@gmail.com**
+[Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white).(ryan.dahora.sampaio@gmail.com)
 
 ---
 
