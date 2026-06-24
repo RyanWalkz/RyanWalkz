@@ -1,11 +1,13 @@
-<!-- Title -->
+<!-- Frutiger Aero Header -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB4bGN6OXI1Z2kzb3owZHMzY2cwZ3pmcm1wYW56bDhzZmtrY3dqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ern2BT1e1TKrM7Nves/giphy.gif" width="100%"/>
+</p>
 <div align="center">
 
-# Hello World! 👋
 
-### 💻 Computer Science Student • Python Developer • Linux Enthusiast
+# 🌐 Hello World! 👋
 
-</div>
+### 💻 Computer Science • Cybersecurity • Linux Enthusiast
 
 ---
 
@@ -65,9 +67,7 @@ I'm passionate about technology, software development, cybersecurity and ethical
 
 <!-- Gifs legais -->
 <div align="center">
-
-<img width="46%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB4bGN6OXI1Z2kzb3owZHMzY2cwZ3pmcm1wYW56bDhzZmtrY3dqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ern2BT1e1TKrM7Nves/giphy.gif"/>
-<img width="46%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY2Zjh4aDMxbWZwMTVid3JocDQ4Mzlzbzl2ZDR0YmpxcjB3a3VjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY2Zjh4aDMxbWZwMTVid3JocDQ4Mzlzbzl2ZDR0YmpxcjB3a3VjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif" width="50%"/>
 
 </div>
 
