@@ -37,7 +37,7 @@ I'm passionate about technology, software development, cybersecurity and ethical
 
 - I'm always exploring new technologies and improving my development workflow.
 
-- Besides programming, I enjoy technology, gaming, history and learning new things.
+- Besides programming, I enjoy technology, gaming and learning new things.
 
 </details>
 
@@ -63,6 +63,16 @@ I'm passionate about technology, software development, cybersecurity and ethical
 
 ---
 
+<!-- Gifs legais -->
+<div align="center">
+
+<img width="46%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB4bGN6OXI1Z2kzb3owZHMzY2cwZ3pmcm1wYW56bDhzZmtrY3dqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ern2BT1e1TKrM7Nves/giphy.gif"/>
+<img width="46%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY2Zjh4aDMxbWZwMTVid3JocDQ4Mzlzbzl2ZDR0YmpxcjB3a3VjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,73 +84,86 @@ I'm passionate about technology, software development, cybersecurity and ethical
 </p>
 
 ---
+<!-- Portfolio -->
+## 📁 Portfolio - Featured Projects
 
-## 🚀 Featured Projects
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/RyanWalkz/Image-converter-remover-background">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanWalkz&repo=Image-converter-remover-background&theme=github_dark&hide_border=true"/>
+      </a>
+    </td>
 
-- 🎬 **Video Converter**
-- 🖼️ **Image Converter & Background Remover**
-- 🖥️ More projects coming soon...
+<table>
+    <td>
+      <a href="https://github.com/RyanWalkz/App-de-metas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanWalkz&repo=App-de-metas&theme=github_dark&hide_border=true"/>
+      </a>
+    </td>
 
----
-
-## 🛠️ Technologies
-
-### Languages
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-
-
-</p>
-
-### Tools
-
-## 🛠️ Tools
-
-<p>
-
-<!-- Core tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-
-<!-- Automation / Marketing -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" height="45"/>
-
-<!-- Meta Ads (não existe devicon oficial, então usamos simple-icons) -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/meta.svg" height="45"/>
-
-</p>
-
-### Libraries
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-
-</p>
+<table>
+    <td>
+      <a href="https://github.com/RyanWalkz/Automacao-de-planilha">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanWalkz&repo=Automacao-de-planilha&theme=github_dark&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Contribution Graph
+## 🔥 Technologies
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/RyanWalkz/RyanWalkz/output/github-contribution-grid-snake-dark.svg">
-</p>
+<!-- Programming Languages -->
+<div style="flex-basis: 48%;">
+  <h3>Programming Languages</h3>
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+</div>
+
+<!-- Tools & Platforms -->
+<div style="flex-basis: 48%;">
+  <h3>Tools & Platforms</h3>
+
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="NetBeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+
+</div>
+
+ <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    
+  </div>
+
+<!-- Databases -->
+<div style="flex-basis: 48%;">
+  <h3>Databases</h3>
+
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+</div>
+
+<!-- Automation & Marketing -->
+<div style="flex-basis: 48%;">
+  <h3>Automation & Marketing</h3>
+
+  <img align="center" alt="n8n" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg">
+  <img align="center" alt="Meta Ads" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/meta.svg">
+
+</div>
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=RyanWalkz&color=blue)
-
-*"Code. Learn. Build. Repeat."*
+*"Code. Fail. Learn. Repeat."*
 
 </div>
