@@ -130,8 +130,6 @@ I'm still at the beginning of my journey, but every project is a chance to grow,
 
 ---
 
-while (true) {
-    System.out.println(*"Code. Fail. Learn. Repeat."*);
-}
+System.out.println(*"Code. Fail. Learn. Repeat."*);
 
 </div>
