@@ -14,7 +14,7 @@ I'm still at the beginning of my journey, but every project is a chance to grow,
 * 🐍 Learning Python and building practical applications
 * 🐧 Linux enthusiast, currently exploring the Kali Linux ecosystem
 * 🔐 Studying the fundamentals of Cybersecurity and Pentesting
-* 🚀 Always building projects and learning new technologies
+* 🚀 Always searching and learning new technologies
 
 <details>
 
@@ -97,9 +97,9 @@ I'm still at the beginning of my journey, but every project is a chance to grow,
 
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="NetBeans" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ 
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  
 
 </div>
 
@@ -121,10 +121,15 @@ I'm still at the beginning of my journey, but every project is a chance to grow,
 
 <!-- Automation & Marketing -->
 <div style="flex-basis: 48%;">
-  <h3>Automation & Marketing</h3>
+  <h3>Marketing</h3>
+   <img align="center" alt="Meta Ads" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/meta.svg">
 
-  <img align="center" alt="n8n" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg">
-  <img align="center" alt="Meta Ads" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/meta.svg">
+<!-- Learning & wanting to delve deeper -->
+<div style="flex-basis: 48%;">
+    <h3>Wanting to delve deeper</h3>
+<img align="center" alt="n8n" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg">
+ <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
 </div>
 
