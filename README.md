@@ -1,33 +1,26 @@
 <!-- Frutiger Aero Header -->
 # 🌐 Hello World! 👋
 
-### 💻 Computer Science • Cybersecurity • Linux Enthusiast
+## 🌊 About Me
 
----
+Hi! My name is **Ryan da Hora Sampaio**, I'm 22 years old, and I am currently studying Licentiate Degree in Computing in Brazil 🇧🇷.
 
-## 🚀 About Me
+I enjoy exploring how technology can solve real-world problems and I'm always looking for opportunities to learn something new. My current interests include **Python**, **Linux**, **automation**, **cybersecurity** and **ethical hacking**.
 
-Hi! I'm **Ryan da Hora Sampaio**, a 22-year-old Computer Science student from Brazil 🇧🇷.
+I'm still at the beginning of my journey, but every project is a chance to grow, experiment and improve my skills.
 
-I'm currently studying **Computer Science Teaching (Licenciatura em Computação)** at IFBA – Campus Porto Seguro (BA).
-
-I'm passionate about technology, software development, cybersecurity and ethical hacking. My main goal is to become a **Pentester / Ethical Hacker**, working with offensive security and system protection.
-
-- 🎓 Computer Science student at IFBA – Porto Seguro
-- 💼 Intern at a digital marketing agency (**Agência MD1**) working with Meta Ads / paid traffic
-- 🐍 Focused on Python and software development
-- 🔐 Interested in Cybersecurity, Pentesting and Ethical Hacking
-- 🧠 Currently learning Linux and planning to dive deeper into **Kali Linux**
-- 🖥️ Daily tools: VSCode, NetBeans, MySQL
-- 🎯 Goal: Work with cybersecurity and offensive security
-
----
+* 🎓 Student at IFBA – Porto Seguro
+* 💼 Marketing Intern at **Agência MD1**, working with Meta Ads
+* 🐍 Learning Python and building practical applications
+* 🐧 Linux enthusiast, currently exploring the Kali Linux ecosystem
+* 🔐 Studying the fundamentals of Cybersecurity and Pentesting
+* 🚀 Always building projects and learning new technologies
 
 <details>
 
 <summary><b>👨‍💻 More About Me</b></summary>
 
-- I enjoy creating desktop applications, automation tools and utility software.
+- I am learning desktop applications, automation tools, and utility software.
 
 - I like writing clean, organized and maintainable code.
 
@@ -37,37 +30,12 @@ I'm passionate about technology, software development, cybersecurity and ethical
 
 </details>
 
----
+> *"Nothing kills a man faster than his own head"* |-/
+> - Tyler Joseph
 
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="mailto:ryan.dahora.sampaio@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ryandahora">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/ryandahorasampaio">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<!-- Gifs legais -->
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY2Zjh4aDMxbWZwMTVid3JocDQ4Mzlzbzl2ZDR0YmpxcjB3a3VjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif" width="90%"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.dahora.sampaio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryandahora)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ryandahorasampaio)
 
 <p align="center">
 
@@ -77,7 +45,13 @@ I'm passionate about technology, software development, cybersecurity and ethical
 
 </p>
 
----
+<!-- Gifs legais -->
+<p align="center">
+   <img height="220"width="31%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY2Zjh4aDMxbWZwMTVid3JocDQ4Mzlzbzl2ZDR0YmpxcjB3a3VjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif"/>
+  <img height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ5cXpjb2FuZHc3cGdnOTQwZnIyNTRxY2pwYWd0Y3pnbnFwMDhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ern2BT1e1TKrM7Nves/giphy.gif"/>
+  <img height="220" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25lNDc0dDVlMnl1bTQweHp1M2Q2MHo1dnYzMW01YW93NW1qOHJwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0Q81yluMyQrVoI84n/giphy.gif"/>
+</p>
+
 <!-- Portfolio -->
 ## 📁 Portfolio - Featured Projects
 
@@ -104,8 +78,6 @@ I'm passionate about technology, software development, cybersecurity and ethical
     </td>
   </tr>
 </table>
-
----
 
 ## 🔥 Technologies
 
@@ -158,6 +130,8 @@ I'm passionate about technology, software development, cybersecurity and ethical
 
 ---
 
-*"Code. Fail. Learn. Repeat."*
+while (true) {
+    System.out.println(*"Code. Fail. Learn. Repeat."*);
+}
 
 </div>
