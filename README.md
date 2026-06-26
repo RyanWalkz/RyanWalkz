@@ -1,5 +1,7 @@
 <!-- Frutiger Aero Header -->
 
+
+
 # 🌐 Hello World! 👋
 
 > 🌍 *Curiosity drives learning. Learning drives innovation.*
@@ -31,23 +33,25 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 
 - Besides programming, I enjoy technology, gaming and learning new things.
 
-</details>
-
 > *"Nothing kills a man faster than his own head"* |-/
 >
 > — Tyler Joseph
+
+</details>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.dahora.sampaio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryandahora)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ryandahorasampaio)
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanWalkz&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=RyanWalkz&show_icons=true&theme=react&hide_border=true&bg_color=00000000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWalkz&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWalkz&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
 
-</p>
+</div>
 
 <p align="center">
 
@@ -137,7 +141,7 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 
 <p>
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/meta.svg">
+<img height="40" src="https://cdn.simpleicons.org/meta/00AEEF">
 
 </p>
 
@@ -145,7 +149,8 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 
 <p>
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg">
+
+<img height="40" src="https://cdn.simpleicons.org/n8n/FF6D5A">
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
