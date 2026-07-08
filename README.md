@@ -33,7 +33,7 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 
 - Besides programming, I enjoy technology, gaming and learning new things.
 
-> *"Nothing kills a man faster than his own head"* |-/
+> *"When darkness rolls on you, Push on through"* |-/
 >
 > — Tyler Joseph
 
@@ -161,7 +161,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWalkz&la
 ---
 
 ```java
-while (alive) {
+while (alive){
    learn();
    build();
    fail();
