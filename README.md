@@ -43,13 +43,7 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryandahora)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ryandahorasampaio)
 
-<div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=RyanWalkz&show_icons=true&theme=react&hide_border=true&bg_color=00000000" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWalkz&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
 
 </div>
 
@@ -149,12 +143,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWalkz&la
 
 <p>
 
-
 <img height="40" src="https://cdn.simpleicons.org/n8n/FF6D5A">
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="38"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="38"/>
 
 </p>
 
