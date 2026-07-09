@@ -43,10 +43,6 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryandahora)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ryandahorasampaio)
 
-
-
-</div>
-
 <p align="center">
 
 <img height="220" width="31%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY2Zjh4aDMxbWZwMTVid3JocDQ4Mzlzbzl2ZDR0YmpxcjB3a3VjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjkkR8Nn0clgYcnOtC/giphy.gif"/>
@@ -58,38 +54,6 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 </p>
 
 ---
-
-# 📁 Portfolio — Featured Projects
-
-<table>
-<tr>
-
-<td>
-
-<a href="https://github.com/RyanWalkz/Image-converter-remover-background">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanWalkz&repo=Image-converter-remover-background&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-<td>
-
-<a href="https://github.com/RyanWalkz/App-de-metas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanWalkz&repo=App-de-metas&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-<td>
-
-<a href="https://github.com/RyanWalkz/Automacao-de-planilha">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanWalkz&repo=Automacao-de-planilha&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 # 🔥 Technologies
 
