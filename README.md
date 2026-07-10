@@ -54,12 +54,26 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 </p>
 
 <div align="center">
-   
-![GitHub Stats](https://github-readme-stats-dhr21.vercel.app/api?username=RyanWalkz&theme=react&cache_seconds=1)
 
-<img src="https://github-readme-stats-dhr21.vercel.app/api?username=RyanWalkz&theme=react&cache_seconds=1" />
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api?username=RyanWalkz&show_icons=true&hide_border=true&bg_color=00000000&title_color=66E3FF&text_color=EAFBFF&icon_color=7EE787&ring_color=66E3FF&cache_seconds=86400"/>
+
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=RyanWalkz&layout=compact&hide_border=true&bg_color=00000000&title_color=66E3FF&text_color=EAFBFF&cache_seconds=86400"/>
 
 </div>
+
+<div align="center">
+
+<img
+width="85%"
+src="https://streak-stats.demolab.com?user=RyanWalkz&hide_border=true&background=00000000&ring=66E3FF&fire=7EE787&currStreakLabel=66E3FF&sideLabels=EAFBFF&dates=A9DFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+[![Ryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyanWalkz&bg_color=00000000&color=EAFBFF&line=66E3FF&point=7EE787&area=true&hide_border=true)](https://github.com/RyanWalkz)
 
 ---
 
@@ -69,9 +83,8 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 <tr>
 
 <td>
-
 <a href="https://github.com/RyanWalkz/Image-converter-remover-background">
-<img src="https://github-readme-stats-dhr21.vercel.app/api/pin/?username=RyanWalkz&repo=Image-converter-remover-background&theme=react&hide_border=true&bg_color=00000000"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=RyanWalkz&repo=Image-converter-remover-background&hide_border=true&bg_color=00000000&title_color=66E3FF&text_color=EAFBFF"/>
 </a>
 
 </td>
@@ -79,7 +92,7 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 <td>
 
 <a href="https://github.com/RyanWalkz/App-de-metas">
-<img src="https://github-readme-stats-dhr21.vercel.app/api/pin/?username=RyanWalkz&repo=App-de-metas&theme=react&hide_border=true&bg_color=00000000"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=RyanWalkz&repo=App-de-metas&hide_border=true&bg_color=00000000&title_color=66E3FF&text_color=EAFBFF"/>
 </a>
 
 </td>
@@ -87,7 +100,7 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 <td>
 
 <a href="https://github.com/RyanWalkz/Automacao-de-planilha">
-<img src="https://github-readme-stats-dhr21.vercel.app/api/pin/?username=RyanWalkz&repo=Automacao-de-planilha&theme=react&hide_border=true&bg_color=00000000"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=RyanWalkz&repo=Automacao-de-planilha&hide_border=true&bg_color=00000000&title_color=66E3FF&text_color=EAFBFF"/>
 </a>
 
 </td>
