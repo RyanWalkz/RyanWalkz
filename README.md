@@ -53,6 +53,51 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 
 </p>
 
+<div align="center">
+   
+
+![GitHub Stats](https://github-readme-stats-dhr21.vercel.app/api?username=RyanWalkz&show_icons=true&theme=react&hide_border=true&bg_color=00000000)
+
+
+<img height="170"
+src="https://github-readme-stats-dhr21.vercel.app/api/top-langs/?username=RyanWalkz&layout=compact&theme=react&hide_border=true&bg_color=00000000&v=1" />
+
+</div>
+
+---
+
+# 📁 Featured Projects
+
+<table>
+<tr>
+
+<td>
+
+<a href="https://github.com/RyanWalkz/Image-converter-remover-background">
+<img src="https://github-readme-stats-dhr21.vercel.app/api/pin/?username=RyanWalkz&repo=Image-converter-remover-background&theme=react&hide_border=true&bg_color=00000000"/>
+</a>
+
+</td>
+
+<td>
+
+<a href="https://github.com/RyanWalkz/App-de-metas">
+<img src="https://github-readme-stats-dhr21.vercel.app/api/pin/?username=RyanWalkz&repo=App-de-metas&theme=react&hide_border=true&bg_color=00000000"/>
+</a>
+
+</td>
+
+<td>
+
+<a href="https://github.com/RyanWalkz/Automacao-de-planilha">
+<img src="https://github-readme-stats-dhr21.vercel.app/api/pin/?username=RyanWalkz&repo=Automacao-de-planilha&theme=react&hide_border=true&bg_color=00000000"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 # 🔥 Technologies
