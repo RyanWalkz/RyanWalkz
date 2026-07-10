@@ -55,12 +55,9 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 
 <div align="center">
    
+![GitHub Stats](https://github-readme-stats-dhr21.vercel.app/api?username=RyanWalkz&theme=react&cache_seconds=1)
 
-![GitHub Stats](https://github-readme-stats-dhr21.vercel.app/api?username=RyanWalkz&show_icons=true&theme=react&hide_border=true&bg_color=00000000)
-
-
-<img height="170"
-src="https://github-readme-stats-dhr21.vercel.app/api/top-langs/?username=RyanWalkz&layout=compact&theme=react&hide_border=true&bg_color=00000000&v=1" />
+<img src="https://github-readme-stats-dhr21.vercel.app/api?username=RyanWalkz&theme=react&cache_seconds=1" />
 
 </div>
 
