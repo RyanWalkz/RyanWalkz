@@ -169,6 +169,19 @@ src="https://streak-stats.demolab.com?user=RyanWalkz&hide_border=true&background
 
 ---
 
+<div align="center">
+
+## 💣 Contribution Bomberman
+
+<img
+    src="https://raw.githubusercontent.com/RyanWalkz/RyanWalkz/output/bomberman-contribution-graph-dark.svg"
+    alt="Bomberman Contribution Graph"
+    width="100%">
+
+</div>
+
+---
+
 ```java
 while (alive){
    learn();
