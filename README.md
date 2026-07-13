@@ -53,6 +53,8 @@ I'm still at the beginning of my journey, but every project is an opportunity to
 
 </p>
 
+---
+
 <div align="center">
 
 <img
@@ -74,8 +76,6 @@ src="https://streak-stats.demolab.com?user=RyanWalkz&hide_border=true&background
 </div>
 
 [![Ryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyanWalkz&bg_color=00000000&color=EAFBFF&line=66E3FF&point=7EE787&area=true&hide_border=true)](https://github.com/RyanWalkz)
-
----
 
 # 📁 Featured Projects
 
@@ -107,8 +107,6 @@ src="https://streak-stats.demolab.com?user=RyanWalkz&hide_border=true&background
 
 </tr>
 </table>
-
----
 
 # 🔥 Technologies
 
@@ -167,11 +165,9 @@ src="https://streak-stats.demolab.com?user=RyanWalkz&hide_border=true&background
 
 </p>
 
----
-
 <div align="center">
 
-## 💣 Contribution Bomberman
+---
 
 <img
     src="https://raw.githubusercontent.com/RyanWalkz/RyanWalkz/output/bomberman-contribution-graph-dark.svg"
@@ -179,8 +175,6 @@ src="https://streak-stats.demolab.com?user=RyanWalkz&hide_border=true&background
     width="100%">
 
 </div>
-
----
 
 ```java
 while (alive){
