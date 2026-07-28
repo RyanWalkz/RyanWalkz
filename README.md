@@ -141,14 +141,6 @@ src="https://streak-stats.demolab.com?user=RyanWalkz&hide_border=true&background
 
 </p>
 
-### Marketing
-
-<p>
-
-<img height="40" src="https://cdn.simpleicons.org/meta/00AEEF">
-
-</p>
-
 ### Currently Exploring
 
 <p>
